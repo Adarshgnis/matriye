@@ -1,0 +1,25 @@
+.profile-picture img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+
+.sticky {
+    position: sticky;
+    top: 0;
+    padding: 0 0 10px 0;
+    background: linear-gradient(
+      90deg,
+      #070928bd 0%,
+      #15156dcb 32.81%,
+      rgba(133, 14, 199, 0.61) 68.75%,
+      #151574 100%
+    );
+}
+
+.menu-icon {
+    color: white;
+    font-size: 1.5rem;
+}
